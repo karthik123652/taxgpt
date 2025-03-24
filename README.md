@@ -10,7 +10,7 @@ Filing Income Tax Returns (ITR) can be a complex and confusing process. **Tax GP
 
 ## Live Demo
 The project is hosted at:
-[Smart ITR Filing Chatbot](https://income-mvtjqupjcfn5z9css5qnbs.streamlit.app/)
+[Smart ITR Filing Chatbot](https://incometaxgpt.streamlit.app/)
 
 ## Installation
 1. Clone the repository:
